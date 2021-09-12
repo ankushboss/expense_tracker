@@ -1,0 +1,18 @@
+.enter {
+    border-style: solid;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 40px;    
+}
+
+.view {
+    border-style: solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 40px;  
+    padding-left: 20px;  
+}
